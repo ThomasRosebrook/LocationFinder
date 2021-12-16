@@ -1,0 +1,29 @@
+Block1, -3, 3, 2, 2
+BlockOne, -3, 3, 2, 2
+
+Block2, 0, 3, 2, 2
+BlockTwo, 0, 3, 2, 2
+
+Block3, 3, 3, 2, 2
+BlockThree, 3, 3, 2, 2
+
+Block4, -3, 0, 2, 2
+BlockFour, -3, 0, 2, 2
+
+Block5, 0, 0, 2, 2
+BlockFive, 0, 0, 2, 2
+
+Block6, 3, 0, 2, 2
+BlockSix, 3, 0, 2, 2
+
+Block7, -3, -3, 2, 2
+BlockSeven, -3, -3, 2, 2
+
+Block8, 0, -3, 2, 2
+BlockEight, 0, -3, 2, 2
+
+Block9, 3, -3, 2, 2
+BlockNine, 3, -3, 2, 2
+
+Block Far Away, 100, 100, 2, 2
+BFA, 100, 100, 2, 2

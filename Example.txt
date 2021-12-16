@@ -1,0 +1,9 @@
+Building, x, y, x-length, y-width
+BuildingAgain, x, y, x-length, y-width
+
+BuildingTwo, x, y, x-length, y-width
+
+
+*Empty lines, '-'s, ' 's, and '.'s will be ignored
+
+*First entry will be the location of comparison
